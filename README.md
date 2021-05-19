@@ -6,7 +6,7 @@ All source code for the mod example can be found in the `src` folder.
 
 ## Prerequisites
 These instructions assume that you have [Node.js](https://nodejs.org/en/) (which includes npm) installed.
-These instructions assume you either have a license to use or non-profit development of highcharts for details see (https://highcharts.com)
+This demo was constructed using a non-profit development license of highcharts for details see (https://highcharts.com).
 
 ## How to get started (with development server)
 - Open a terminal at the location of this example.
