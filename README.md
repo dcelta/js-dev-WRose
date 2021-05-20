@@ -1,5 +1,5 @@
 # Mod Modathon Wind Rose Project
-![Wind Rose Chart Mod](WindRoseModathon2021.png)
+![Wind Rose Chart Mod](WindRoseModathon2021.PNG)
 The intent behind the Mod served the purpose of the TIBCO Modathon during Apr, 22nd/2021 - May, 20th/2021.
 Disclaimer: The use of Highcharts does not obey any business objectives, Highcharts was used as a random choice and ease of use for the creation of this Mod. 
 
